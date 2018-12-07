@@ -21,46 +21,35 @@ https://lists.cncf.io/mailman/listinfo/cncf-k8s-conformance
 
 # Slack
 
-[slack.k8s.io](slack.k8s.io) #k8s-conformance 
+[slack.k8s.io](http://slack.k8s.io) #k8s-conformance 
 
 # Documentation
 
 * [Early design proposal](https://docs.google.com/document/d/1JsE9itAzL-ZSqKbd5rYnHKKSFW6xK4m50wBj1lTz6Do/edit#heading=h.ub3h0cdur849)
 * [Certified Kubernetes Design Brief](https://docs.google.com/document/d/16ORnXNkR-hFQzNZ6aL3OroXM6_zLP4gKME9E3NyD1jw/edit#)
 
-# Upcoming Meetings
+# Meeting Time
 
-## December 6, Austin (KubeCon)
+The Kubernetes Conformance Working Group meets on the 4th Wednesday of every month at 11 AM PT (USA and Canada).
 
-* [Agenda](https://docs.google.com/document/d/1kHgty5PqHRZWotmbb2aicgvKNhW4m4qWBXFSk-hkYBg/edit)
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/my/cncfk8sconformancewg
 
-# Past Meetings & Presentations
+Or iPhone one-tap:
+     US: +16699006833,,8142638525#  or +16465588656,,8142638525# 
 
-NB. you need to join [kubernetes-dev](https://goo.gl/C4CR8r) to access all documents.
+Or Telephone:
+     Dial: 
+         US: +1 669 900 6833 (US Toll) or +1 646 558 8656 (US Toll) 
+         or +1 877 369 0926 (Toll Free) or +1 855 880 1246 (Toll Free)
 
-## September 26, Video Meet
-* [Notes](https://docs.google.com/document/d/1XkuZToB31AAjOCy4pMxzxS2HHcRj4O_Xu_F84l8ecAc/edit)
+Meeting ID: 814 263 8525
 
+International numbers available: https://zoom.us/zoomconference?m=7BNECpjrmz3CU-jVibqlS76cwbJxYYKv 
 
-## September 12, Los Angeles
-* [Notes](https://docs.google.com/document/d/1HcyeqfFCZ3pVvUg3HRqEPoAeiRKKH5oERm97kUy27RM/edit)
-* [Slides](https://docs.google.com/presentation/d/198DZzAC22rLGNrLYpoEha-PuJE3QAkSaJdZ37lkJ8r4/edit#slide=id.g19497da556_0_12)
+NOTE: Please use *6 to mute/un-mute your phone during the call.
 
-## July 27, Seattle
+World Time Zone Converter: http://www.thetimezoneconverter.com/?t=9:00%20am&tz=San%20Francisco&
 
-* [Notes](https://docs.google.com/document/d/1EO6S_o6hSRQFDQ_AkaizZd7Ia5N5fSFwAih-GfNGbRw/edit#heading=h.9mbss5g49xcf)
-* [Sonobuoy Slides](https://docs.google.com/presentation/u/1/d/1jw5PJGKVMX_1Hv7pDsAqyq_xQThNEPEfaYaYxQqk6cU/edit?usp=sharing)
+# Meeting Minutes
 
-## May 30, San Francisco
-
-* [Notes](https://docs.google.com/document/d/1nwGwnfvWoDkIdDW5dl2bbbA_nFULrq9xrt1vqpJOE3Y/edit#heading=h.ub3h0cdur849)
-
-## April, Austin
-
-* [Overview](https://docs.google.com/document/d/1Nbzi6vl6J2oBk3coGpW_oo1GPmOx7OGOYHDzlo2bxC0/edit)
-* [Notes](https://docs.google.com/document/d/1OqJDVBaCtn4DfSEyCByAkXkyKtLM7a9sDs_IZmvCbr0/edit)
-* [Slides](https://docs.google.com/presentation/d/1M1sesGhXyDDanF2WBr-l0jvyQQlKLH-YK7v2euqBeB4/edit#slide=id.g207a823394_2_299)
-
-## [BoF] March, Berlin
-
-* [Slides](https://docs.google.com/presentation/d/1DbwKE0TiG4hNkHnjerAhyUbvArkcCDw1JNqAWAO90Iw/edit#slide=id.g19497da556_0_12)
+Upcoming and past meeting agenda/notes are available [here](https://docs.google.com/document/d/1D51Qzwff1nn_acK_cbRIdocLJcrK61UAcnZgKyTS2Y4/edit#).
